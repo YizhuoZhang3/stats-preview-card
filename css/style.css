@@ -108,8 +108,11 @@ body {
   mix-blend-mode: normal;
 }
 
+.card_right {
+  background-color: var(--clr-primary-violet);
+}
+
 .card_img {
-  background: url(/images/image-header-desktop.jpg);
   mix-blend-mode: multiply;
   opacity: 0.75;
 }
